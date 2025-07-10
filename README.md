@@ -19,6 +19,7 @@ This project demonstrates the physical setup and network configuration of a dist
 - **RAM**: 16 GB DDR4 3200MHz (per node)
 - **GPU**: NVIDIA GTX 1050 Ti 4GB 128-bit (per node)
 - **PSU**: 550W+ Bronze Certified (per node)
+- **SSD**: 240GB 2000/1000Mbps (per node)
 - **Network**: 16-Port Gigabit Switch (1000 Mbps)
 
 ---
