@@ -2,10 +2,7 @@
 #  Distributed Computing Test Rig – 9-Node Bare-Metal Cluster
 
 This project demonstrates the physical setup and network configuration of a distributed computing test rig composed of 9 individual desktop systems. The purpose is to simulate parallel task execution and load distribution across multiple nodes using real hardware.
-AI Assistance / Yapay Zeka Desteği
-Some parts of the code in this project have been developed with the assistance of OpenAI's ChatGPT AI model.  
-For more information, visit: https://chat.openai.com/
-Bu projedeki bazı kodlar, OpenAI'nin ChatGPT yapay zeka modeli yardımıyla geliştirilmiştir.  
+
 ---
 
 # System Overview
@@ -85,6 +82,10 @@ This system simulates a distributed computing environment. While not currently r
 - Create a Python-based task distribution framework
 
 ---
+AI Assistance / Yapay Zeka Desteği
+Some parts of the code in this project have been developed with the assistance of OpenAI's ChatGPT AI model.  
+For more information, visit: https://chat.openai.com/
+Bu projedeki bazı kodlar, OpenAI'nin ChatGPT yapay zeka modeli yardımıyla geliştirilmiştir.  
 
 # Contact
 
